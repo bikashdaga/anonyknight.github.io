@@ -1,3 +1,7 @@
+---
+tags:
+    - Algorithms
+---
 # Greedy vs DP
 
 ## Greedy Keys:

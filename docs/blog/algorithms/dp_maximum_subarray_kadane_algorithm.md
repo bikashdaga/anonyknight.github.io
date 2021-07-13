@@ -1,3 +1,7 @@
+---
+tags:
+    - Algorithms
+---
 # DP Maximum Subarray - Kadane’s Algorithm
 
 [Maximum Subarray - Monisha Mathew - Medium](https://medium.com/@monisha.mary.mathew/maximum-subarray-f109ef4100f7)
