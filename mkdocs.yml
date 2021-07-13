@@ -1,5 +1,93 @@
 site_name: Software Engineering Grinding
 site_url: https://anonyknight.github.io/software-engineer-grinding/
 
+site_description: >-
+  Life is a journey and grinding every day.
+
+copyright: >-
+    © 2021 Dingan(Will) Wang <div style="display:none"><div>
+
+# https://squidfunk.github.io/mkdocs-material/
 theme:
   name: material
+  custom_dir: overrides
+  palette:
+      primary: white
+      accent: deep orange
+  font:
+      text: Noto Serif
+      code: Roboto Mono
+  icon:
+      logo: fontawesome/solid/code
+  favicon: favicon.png
+  features:
+      - navigation.instant
+      - navigation.tabs
+      - navigation.top
+      - header.autohide
+
+extra_css:
+    - assets/css/view-bigimg.css
+    - assets/css/extra.css
+extra_javascript:
+    - assets/js/view-bigimg.js
+    - assets/js/extra.js
+
+markdown_extensions:
+  - meta
+  - pymdownx.superfences
+  - pymdownx.highlight:
+        linenums_style: pymdownx-inline
+  - pymdownx.inlinehilite
+  - admonition
+  - attr_list
+  - pymdownx.tasklist:
+        custom_checkbox: true
+  - def_list
+  - sane_lists
+  - markdown_captions
+  - pymdownx.tabbed
+  - tables
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.critic
+  - md_in_html
+  - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.escapeall:
+        hardbreak: true
+        nbsp: true
+  - pymdownx.saneheaders
+  - smarty:
+        smart_angled_quotes: true
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - customblocks
+  - footnotes
+  - toc:
+        permalink: ⚓︎
+        slugify: !!python/name:pymdownx.slugs.uslugify
+        toc_depth: 4
+  - codehilite
+  - markdown_include.include:
+      base_path: docs
+
+plugins:
+  - search # built-in search must be always activated
+  - awesome-pages:
+        collapse_single_pages: true
+  - section-index # must be after awesome-pages
+  - git-revision-date-localized:
+        enable_creation_date: true
+        type: iso_datetime
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/anonyknight
+      name: Dingan(Will) Wang
+    - icon: fontawesome/brands/linkedin-in
+      link: https://www.linkedin.com/in/dingan-will-wang/
+      name: Dingan(Will) Wang

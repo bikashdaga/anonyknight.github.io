@@ -1,2 +1,9 @@
-mkdocs
 mkdocs-material
+markdown-include
+mkdocs-awesome-pages-plugin
+mkdocs-material-extensions
+mkdocs-blog-plugin
+mkdocs-git-revision-date-localized-plugin
+mkdocs-section-index
+markdown-captions
+markdown-customblocks
