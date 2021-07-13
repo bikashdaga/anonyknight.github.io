@@ -1,4 +1,4 @@
-# Software Engineering practises
+# Software Engineering practices
 
 ## Secured SDLC
 

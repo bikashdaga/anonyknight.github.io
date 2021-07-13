@@ -7,10 +7,9 @@ To have markdown as the source, build the book, publish it
 either in github pages or gitbook.
 
 
+Deploy Gatsby Site
 
 [GitHub - gatsbyjs/gatsby-starter-default: The default Gatsby starter](https://github.com/gatsbyjs/gatsby-starter-default)
-
-Deploy Gatsby Site
 
 [Deploy a Gatsby Site on GitHub Pages for Free](https://blog.bitsrc.io/deploy-a-gatsby-site-on-github-pages-for-free-f18853c1b7a9)
 

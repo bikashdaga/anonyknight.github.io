@@ -1,0 +1,8 @@
+site_name: Software Engineering Grinding
+site_url: https://anonyknight.github.io/software-engineer-grinding/
+
+nav:
+  - Home: index.md
+  - About: about.md
+theme:
+  name: material
