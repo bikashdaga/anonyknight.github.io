@@ -1,16 +1,12 @@
-# List of tools
+## List of tools
 
-One week/tool
-
-## Basic tools
+### Basic tools
 
 [pytest](https://docs.pytest.org/en/stable/)
 [Docker Documentation](https://docs.docker.com/get-started/)
 [Jenkins](https://www.jenkins.io/doc/)
 
-One week/tool
-
-## Advanced tools
+### Advanced tools
 
 [Kubernetes Documentation](https://kubernetes.io/docs/home/)
 [Elastic Stack and Product Documentation](https://www.elastic.co/guide/index.html)
