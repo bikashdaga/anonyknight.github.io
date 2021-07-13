@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Python3 Less knowledge](README.md)
+* [Python3 Less knowledge](intro.md)
 
 ## Build-in
 
