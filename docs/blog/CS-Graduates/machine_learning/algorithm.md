@@ -10,8 +10,11 @@ tags:
 ## Machine Learning algorithm
 
 [Azure Machine Learning Algorithm Cheat Sheet](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet)
+
 [Amazon Machine Learning](https://docs.aws.amazon.com/machine-learning/latest/dg/what-is-amazon-machine-learning.html)
+
 [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+
 [Google AI Education](https://ai.google/education/)
 
 ### Supervised Learning

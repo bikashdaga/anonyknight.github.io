@@ -1,11 +1,9 @@
 ---
-title: SEG
+title: Home
 title_full: Software Engineering Grinding
-description: Tags and list of pages
+description: Intro
 hide:
     - disqus
-tags:
-    Grinding
 ---
 
 Welcome!!!
