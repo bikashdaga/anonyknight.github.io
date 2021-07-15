@@ -1,6 +1,6 @@
 ---
 title: Math-Markdown
-title_full: Reinforcement Learning
+title_full: Math symbols for Markdown and Latex
 tags:
   - Markdown
   - Latex
@@ -24,7 +24,6 @@ Greek Letters
 | $\varphi$ | ```$\varphi$``` | ```\varphi``` |
 | $\theta$  | ```$\theta$```  | ```\theta```  |
 | $\Theta$  | ```$\Theta$```  | ```\Theta```  |
-
 
 More Reference:
 [Writing Mathematic Fomulars in Markdown](https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/) 
