@@ -27,12 +27,14 @@ theme:
       - header.autohide
 
 extra_css:
-    - assets/css/view-bigimg.css
-    - assets/css/extra.css
+  - assets/css/view-bigimg.css
+  - assets/css/extra.css
 extra_javascript:
-    - assets/js/view-bigimg.js
-    - assets/js/extra.js
-
+  - assets/js/view-bigimg.js
+  - assets/js/extra.js
+  - assets/js/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 markdown_extensions:
   - meta
   - pymdownx.superfences
@@ -59,6 +61,8 @@ markdown_extensions:
   - pymdownx.escapeall:
         hardbreak: true
         nbsp: true
+  - pymdownx.arithmatex:
+      generic: true
   - pymdownx.saneheaders
   - smarty:
         smart_angled_quotes: true

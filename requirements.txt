@@ -7,3 +7,4 @@ mkdocs-git-revision-date-localized-plugin
 mkdocs-section-index
 markdown-captions
 markdown-customblocks
+python-markdown-math
