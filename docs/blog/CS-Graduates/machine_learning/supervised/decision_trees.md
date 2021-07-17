@@ -1,6 +1,6 @@
 ---
-title: Supervised ML
-title_full: Supervised Machine Learning
+title: DTs
+title_full: Decision Trees
 tags:
   - Algorithms
   - Machine Learning
