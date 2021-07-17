@@ -12,7 +12,8 @@ inspired by the idea of [The Ph.D. Grind: A Ph.D. Student Memoir](https://www.go
 
 Software engineers normally read more, grind more technologies and then use less and elegant code in work.
 
-The best career is a pursuit of [craftsmanship](https://manifesto.softwarecraftsmanship.org/) spirit.
+The software engineer journey is a pursuit of 
+[craftsmanship](https://manifesto.softwarecraftsmanship.org/) spirit.
 
 Happy coding!
 Happy life!

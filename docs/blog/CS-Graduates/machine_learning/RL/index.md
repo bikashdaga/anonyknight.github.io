@@ -1,6 +1,6 @@
 ---
 title: RL
-title_full: Reinforcement Learning
+title_full: Reinforcement Learning introduction
 tags:
   - Algorithms
   - Reinforcement-Learning

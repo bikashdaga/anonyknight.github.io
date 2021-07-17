@@ -1,12 +1,10 @@
-# QA procedures and methodologies
-
-## References
-
-[A Practical Guide to the Software QA Process](https://www.scnsoft.com/blog/qa-process)
-
-[QA process maturity: Models and capabilities](https://www.scnsoft.com/blog/qa-process-maturity-models-and-capabilities)
-
-![QA process](guide-to-the-sw-qa-process-steps.png)
+---
+title: QA
+title_full: QA procedures and methodologies
+tags:
+  - QA
+  - Testing
+---
 
 ## Requirements analysis
 
@@ -36,3 +34,12 @@ state an expected test result.
 ## Release testing
 
 Smoke testing
+
+## References
+
+[A Practical Guide to the Software QA Process](https://www.scnsoft.com/blog/qa-process)
+
+[QA process maturity: Models and capabilities](https://www.scnsoft.com/blog/qa-process-maturity-models-and-capabilities)
+
+![QA process](guide-to-the-sw-qa-process-steps.png)
+

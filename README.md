@@ -1,7 +1,8 @@
-# Software Engineer Grinding
+# Anonyknight's Software Engineer Grinding Journey
 
 Please visit to see the rendered URL:
 
-[software-engineer-grinding Website](https://anonyknight.github.io/software-engineer-grinding/)
+[Anonyknight's Grinding Journey UI](https://anonyknight.github.io)
 
-Used theme of https://github.com/vuquangtrong/mkdocs-material-blog
+The website used theme of 
+https://github.com/vuquangtrong/mkdocs-material-blog
