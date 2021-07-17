@@ -3,7 +3,7 @@ title: RL
 title_full: Reinforcement Learning
 tags:
   - Algorithms
-  - Reinforcement Learning
+  - Reinforcement-Learning
 ---
 
 ## Definition

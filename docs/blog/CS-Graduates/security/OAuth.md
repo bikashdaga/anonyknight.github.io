@@ -1,4 +1,6 @@
-OAuth 2.0 is widely used by third party grant access.
+# OAuth 2.0 
+
+OAuth is widely used by third party grant access.
 
 FLAG companies provide the service.
 

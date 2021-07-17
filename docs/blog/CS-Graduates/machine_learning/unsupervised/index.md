@@ -3,8 +3,8 @@ title: unsupervised
 title_full: unsupervised Learning
 tags:
     - Algorithms
-    - Machine Learning
-    - Unsupervised Learning
+    - Machine-Learning
+    - Unsupervised-Learning
 ---
 
 ## Problems

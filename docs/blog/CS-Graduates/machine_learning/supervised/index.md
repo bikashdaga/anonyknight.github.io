@@ -3,7 +3,7 @@ title: Supervised ML
 title_full: Supervised Machine Learning
 tags:
   - Algorithms
-  - Machine Learning
+  - Machine-Learning
   - Supervised
 ---
 

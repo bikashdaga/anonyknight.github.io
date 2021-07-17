@@ -3,7 +3,7 @@ title: Q-learning
 title_full: Q-Learning algorithm
 tags:
   - Algorithms
-  - Reinforcement Learning
+  - Reinforcement-Learning
 ---
 
 

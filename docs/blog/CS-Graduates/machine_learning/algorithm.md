@@ -4,7 +4,7 @@ title_full: Machine Learning
 description: Machine Learning algorithms and its application
 tags:
   - Algorithms
-  - Machine Learning
+  - Machine-Learning
 ---
 
 ## Machine Learning algorithm

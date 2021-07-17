@@ -1,29 +1,35 @@
-# [Data & Visual Analytics](https://gatech.instructure.com/courses/170430)
+---
+title: DVA
+title_full: Data & Visual Analytics
+description: class notes from OMSCS DVA classes.
+tags:
+  - Algorithms
+  - OMSCS
+  - Visualization
+  - Data-Analytics
+---
 
-
+[Data & Visual Analytics](https://gatech.instructure.com/courses/170430)
 
 ## Fun Materials for the week:
 
 ### How to create an intuitive statistical visualization?
 
- \- Hans Rosling had mastered that art and we can learn a lot from his first [TED talk](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen).
-
+> Hans Rosling had mastered that art and we can learn a lot from his first [TED talk](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen).
 
 
 ### Data Visualization
 
-Edward Tufte is a pioneer in Data Visualization and he is also a fellow of the American Statistical Association.
+> Edward Tufte is a pioneer in Data Visualization and he is also a fellow of the American Statistical Association.
 
-\- His books on [visualization](https://www.edwardtufte.com/tufte/books_vdqi) are amongst the best 100 books of the 20th century on Amazon.
+His books on [visualization](https://www.edwardtufte.com/tufte/books_vdqi) are amongst the best 100 books of the 20th century on Amazon.
 
-\- The "*Thinking Eye with Edward Tufte*" ([link](https://www.youtube.com/watch?v=mvrNemNoQ5M&t=164s )) is a lecture given by Edward Tufte at MIT Sloan Sports Analytics Conference is a great place to learn about "Edward Tufte's Design Principles"
-
+> The "*Thinking Eye with Edward Tufte*" ([link](https://www.youtube.com/watch?v=mvrNemNoQ5M&t=164s )) is a lecture given by Edward Tufte at MIT Sloan Sports Analytics Conference is a great place to learn about "Edward Tufte's Design Principles"
 
 
 [Information is beautiful](https://informationisbeautiful.net/) is one of the best places to learn how to create impactful infographics and data visuals. The website was founded by David McCandless who is one of the brightest minds in data visualization. He has tons of great examples on his website. 
 
 He also conducts Dataviz Workshops in major cities around the world and you can check his workshop schedule [here](https://informationisbeautiful.net/workshops/) (including online seminars).
-
 
 
 August 2020 edition of Wired magazine had a brilliant article on data visualization aptly titled, [Is Your Chart a Detective Story? Or a Police Report?](https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/). Here's a small abstract from the article: 
@@ -34,19 +40,16 @@ This article is a great place to understand the pros and cons of creative non-tr
 
 
 
-***"Simplicity is the ultimate sophistication.”*** This design mantra of Steve Jobs and Jonny Ive changed our world and technology forever. 
+> ***"Simplicity is the ultimate sophistication.”*** 
+This design mantra of Steve Jobs and Jonny Ive changed our world and technology forever. 
 
  
-
 Jony Ive's biography [Jony Ive: The Genius Behind Apple's Greatest Products](https://amzn.to/365FaZE)
 
 has some wonderful lessons one can learn on creating a simple and intuitive design for complex problems. Here's is a small excerpt from this book:
 
 > The process of simplification is design 101, a mind-set that every design student is taught in school. But not every student adopts it, and it’s rarely applied with the ruthless discipline practiced by Jony. Indeed, if there’s such a thing as a single secret to what Jony Ive does, it is to follow slavishly the simplification philosophy. That approach has accounted for many of the major breakthroughs, as well as for some products that failed and others that Apple hasn’t released. Caring enough to commit the enormous time and effort to get something right has also been Jony’s hallmark, from his earliest college projects onward. Jony’s ultimate goal is for his designs to disappear.
 >
-> 
-
-
 
 ***"Correlation does not imply causation"\***. The deciphering “causation” has been an open question for decades if not centuries. Judea Pearl is not only described as one of the giants in the field of artificial intelligence but also considered as one of the founding fathers of the causal revolution. 
 

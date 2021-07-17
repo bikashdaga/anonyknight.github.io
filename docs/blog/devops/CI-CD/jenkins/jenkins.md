@@ -1,4 +1,10 @@
-# Jenkins
+---
+title: Jenkins 
+description: Jenkins CI/CD server
+tags:
+    - DevOps
+    - CI/CD
+---
 
 [Tikal Knowledge - Generic Python script-runner using Dockerized Jenkins-pipeline](https://www.tikalk.com/posts/2017/09/24/generic-python-script-runner-using-dockerized-jenkins-pipeline/)
 
@@ -8,6 +14,8 @@ Exercise:
 Run LeTP-UnitTests locally with docker.
 
 [Using Docker with Pipeline](https://www.jenkins.io/doc/book/pipeline/docker/)
+
+[declarative-pipeline-fundamentals](https://www.jenkins.io/doc/book/pipeline/%5C#declarative-pipeline-fundamentals)
 
 # Q&A:
 

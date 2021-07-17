@@ -4,8 +4,9 @@ title_full: Machine Learning for Trading
 description: Machine Learning algorithms and its application
 tags:
   - Algorithms
-  - Machine Learning
+  - Machine-Learning
   - Trading
+  - OMSCS
 ---
 
 ## Machine Learning for Trading

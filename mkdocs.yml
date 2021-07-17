@@ -19,7 +19,7 @@ theme:
       code: Roboto Mono
   icon:
       logo: fontawesome/solid/code
-  favicon: favicon.png
+  favicon: favicon.ico # https://gauger.io/fonticon/
   features:
       - navigation.instant
       - navigation.tabs

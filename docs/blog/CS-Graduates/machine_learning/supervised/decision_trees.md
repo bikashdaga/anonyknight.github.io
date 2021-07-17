@@ -3,7 +3,7 @@ title: DTs
 title_full: Decision Trees
 tags:
   - Algorithms
-  - Machine Learning
+  - Machine-Learning
 ---
 
 ## Decision Trees (DTs)
