@@ -15,5 +15,19 @@ Software engineers normally read more, grind more technologies and then use less
 The software engineer journey is a pursuit of 
 [craftsmanship](https://manifesto.softwarecraftsmanship.org/) spirit.
 
+:fontawesome-solid-yin-yang:
+
+:fontawesome-solid-atom:
+:fontawesome-solid-sync:
+
+:fontawesome-solid-code:
+:fontawesome-solid-laptop:
+:fontawesome-solid-coffee:
+
+:fontawesome-solid-atom:
+:fontawesome-solid-sync:
+
+:fontawesome-solid-yin-yang:
+
 Happy coding!
 Happy life!

@@ -8,3 +8,4 @@ mkdocs-section-index
 markdown-captions
 markdown-customblocks
 python-markdown-math
+-i https://github.com/bmcorser/fontawesome-markdown/archive/master.zip

@@ -18,7 +18,8 @@ theme:
       text: Noto Serif
       code: Roboto Mono
   icon:
-      logo: fontawesome/solid/code
+      # https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
+      logo: fontawesome/solid/code 
   favicon: favicon.ico # https://gauger.io/fonticon/
   features:
       - navigation.instant
