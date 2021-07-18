@@ -69,6 +69,9 @@ Convert a real number into integer.
 
 ## Summary
 
+It's a model free algorithm that does not know Transition matrix T 
+or rewards function.
+
 ### Build a model
 
 * Define states, actions, rewards
@@ -76,14 +79,23 @@ Convert a real number into integer.
 * iterate: Q-Table update
 * back
 
+Steps:
+1. Init Q table
+2. observe S
+3. execute a, obverse $S'$, r
+4. Update Q with <$s, a, s', r$>
+
 ### Testing a model
 
 * Backtest on later data.
 
-## Dyna
+## Dyna-Q
 
-Speed up convergences.
+Build up Transition matrix T and Rewards matrix R to speed up model convergences
+for Q-Learning.
 
+The real world training is expensive, we hallucinate many additional interactions,
+100 
 
 ### Reference
 
