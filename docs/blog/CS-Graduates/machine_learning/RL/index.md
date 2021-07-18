@@ -37,7 +37,6 @@ How to find $\Pi$ to maximize ?
 * Rewards = money returns
 * Policy: $\Pi$ = Trading strategy
   
-
 ## Algorithm type
 
 ### Model-Based
@@ -47,3 +46,13 @@ Use the transition T or the rewards R in the model.
 ### Model Free
 
 It does not know or use the models of the transitions T or the rewards R.
+
+## Reference
+
+[Reinforcement Learning: A Survey](https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume4/kaelbling96a-html/rl-survey.html)
+
+Or [Reinforcement Learning: A Survey-PDF](https://arxiv.org/pdf/cs/9605103.pdf)
+
+[Section 8.2 - Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/RLbook2018.pdf)
+
+[Section 9 - Reinforcement Learning: An Introduction PPT](https://people.cs.umass.edu/~barto/courses/cs687/Chapter%209.pdf)

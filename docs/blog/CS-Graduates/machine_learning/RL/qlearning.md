@@ -80,6 +80,7 @@ or rewards function.
 * back
 
 Steps:
+
 1. Init Q table
 2. observe S
 3. execute a, obverse $S'$, r
@@ -95,7 +96,41 @@ Build up Transition matrix T and Rewards matrix R to speed up model convergences
 for Q-Learning.
 
 The real world training is expensive, we hallucinate many additional interactions,
-100 
+100 rounds.
+
+### Learning T
+
+$T[s,a,s']$ = prob $s,a->s'$
+
+Init $T_c[]$ = 0.00001
+
+while executing, observe s,a,s'
+
+increment $T_c[s,a,s']$
+
+$T[s,a,s']=T_c[s,a,s']/(\sum_i T[s,a,i])$
+
+### Learning R
+
+$R'[s,a]=(1-\alpha)R[s,a]+\alpha*r$
+
+r = immediate rewards.
+
+R = expected reward for s,a.
+
+
+### Dyna-Q Algorithm
+
+$T'[s,a,s']$ update
+
+$R'[s,a]$ update
+
+* s = random
+* a = random
+* s' = infer from T[]
+* r = R[s,a]
+
+Update Q with $<s,a,s',r>$
 
 ### Reference
 
