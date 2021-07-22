@@ -139,3 +139,5 @@ Update Q with $<s,a,s',r>$
 [Simple Reinforcement Learning: Q-learning](https://towardsdatascience.com/simple-reinforcement-learning-q-learning-fcddc4b6fe56)
 
 [Q-Learning in Python](https://www.geeksforgeeks.org/q-learning-in-python/)
+
+[Dyna-Q-Learning](https://github.com/Bobyue0118/Dyna-Q-Learning/blob/master/src/agent.py)

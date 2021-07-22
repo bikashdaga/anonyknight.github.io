@@ -113,3 +113,5 @@ e.g.
 [reinforcement-learning Github most star](https://github.com/dennybritz/reinforcement-learning)
 
 [reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+
+[Machine Learning, Tom Mitchell](https://www.cs.cmu.edu/~tom/mlbook.html)
