@@ -114,3 +114,6 @@ Start with 1 indicator first, see if it's better to add more indicators.
 - [Grokking Deep Learning](https://www.oreilly.com/library/view/grokking-deep-learning/9781617293702/) (Book) - A good book that, like ML4T, will have you implementing algorithms and models.
 - [Foundations of Deep Reinforcement Learning](https://www.oreilly.com/library/view/foundations-of-deep/9780135172490/) (Book) - Sections 1.1 through 1.4 provide a nice introduction to reinforcement learning and our work in CS7646.
 - [deeplearning.ai](http://deeplearning.ai/) (Website) - A learning & education site by Andrew Ng.
+
+
+[PORTFOLIO VISUALIZER/efficient frontier](https://www.portfoliovisualizer.com/)
