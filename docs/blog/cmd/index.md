@@ -1,6 +1,6 @@
 ---
 title: CMD
-description: The commands in Linux
+description: The Command.
 hide:
     - disqus
 ---
