@@ -17,6 +17,15 @@ The first Turing award in Software Engineering field.
 
 ![SDLC Methodologies](https://www.techuz.com/blog/wp-content/uploads/2018/10/SDLC-Methdodlogies.jpg)
 
+
+## [DevSecOps](https://www.secodis.com/secure-sdlc2/?lang=en)
+
+![Secure SDLC](https://www.secodis.com/wp-content/uploads/2018/11/secure-sdlc-2-768x171.png)
+
+## [Agile Security](https://www.secodis.com/agile-security/?lang=en)
+
+![Agile Security](https://www.secodis.com/wp-content/uploads/2018/05/Agile-Sprint-Level-Security_en-768x350.png)
+
 ## More reference
 
 [Top 12 SDLC Methodologies with Pros and Cons](https://www.techuz.com/blog/top-12-sdlc-methodologies-with-pros-and-cons/)
