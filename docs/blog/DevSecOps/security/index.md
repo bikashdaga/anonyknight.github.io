@@ -18,3 +18,10 @@ tags:
 
 - Threat Model
 - Automated Code Review(ACR)
+- Sensitive Information Scan
+- Static Application Security Testing(SAST)
+- Dynamic Application Security Testing(DAST)
+- Software Composition Analysis
+- Vulnerability Management
+- Compliance as Code
+- Secret Management

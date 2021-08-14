@@ -25,11 +25,9 @@ Performs analysis on the applications and reports the vulnerabilities
 
 ## [Automated Code Review](https://en.wikipedia.org/wiki/Automated_code_review)
 
-PMD: Finding Common Vulnerabilities
-
-DevSkim: Code Security Review
-
-FindSecBugs: Securing Java Applications
+- [PMD: Finding Common Vulnerabilities](https://pmd.github.io/)
+- [DevSkim: Code Security Review](https://github.com/microsoft/DevSkim)
+- [FindSecBugs: Securing Java Applications](https://find-sec-bugs.github.io/)
 
 ### Resources
 
