@@ -2,7 +2,8 @@
 title: Golang
 description: Golang/Go programming
 tags:
-    - Go
+    - Golang
+    - GO
     - coding
 ---
 
@@ -23,11 +24,9 @@ tags:
 [Effective Go guide](http://golang.org/doc/effective_go.html#interface_conversions)
 
 
-
 Composition over inheritance
 
 [short but good segment](http://golang.org/doc/effective_go.html#embedding) 
-
 
 
 https://gobyexample.com/interfaces
@@ -41,3 +40,14 @@ https://gobyexample.com/interfaces
 - [Effective Go - slices](http://golang.org/doc/effective_go.html#slices)
 - [Effective Go - two-dimensional slices](http://golang.org/doc/effective_go.html#two_dimensional_slices)
 - [Go by example - slices](https://gobyexample.com/slices)
+
+## Map
+
+- [Go team blog post on maps](http://blog.golang.org/go-maps-in-action)
+- [Effective Go - maps](http://golang.org/doc/effective_go.html#maps)
+
+## Reference:
+- [An Introduction to Programming in Go](https://www.educative.io/courses/introduction-to-programming-in-go)
+- [Go by Example](https://gobyexample.com/)
+- [A Tour of Go](https://tour.golang.org)
+- [The Go Programming Language Specification](https://golang.org/ref/spec#Short_variable_declarations)
