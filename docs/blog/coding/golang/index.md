@@ -46,8 +46,19 @@ https://gobyexample.com/interfaces
 - [Go team blog post on maps](http://blog.golang.org/go-maps-in-action)
 - [Effective Go - maps](http://golang.org/doc/effective_go.html#maps)
 
+## Concurrent Slogon
+> Do not communicate by sharing memory; instead, share memory by communicating.
+
+Although Go’s approach to concurrency originates in [Hoare’s Communicating Sequential Processes (CSP)](http://en.wikipedia.org/wiki/Communicating_sequential_processes), it can also be seen as a type-safe generalization of Unix pipes.
+
+- [Rob Pike’s concurrency slides (IO 2012)](http://talks.golang.org/2012/concurrency.slide#1)
+- [Video of Rob Pike at IO 2012](http://www.youtube.com/watch?v=f6kdp27TYZs)
+- [Video of Concurrency is not parallelism (Rob Pike)](http://vimeo.com/49718712)
+
+
 ## Reference:
 - [An Introduction to Programming in Go](https://www.educative.io/courses/introduction-to-programming-in-go)
 - [Go by Example](https://gobyexample.com/)
 - [A Tour of Go](https://tour.golang.org)
 - [The Go Programming Language Specification](https://golang.org/ref/spec#Short_variable_declarations)
+
