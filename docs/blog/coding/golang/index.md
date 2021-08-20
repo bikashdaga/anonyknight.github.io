@@ -56,6 +56,18 @@ Although Go’s approach to concurrency originates in [Hoare’s Communicating S
 - [Video of Concurrency is not parallelism (Rob Pike)](http://vimeo.com/49718712)
 
 
+## Concurrency
+### Channels
+- Buffered Channel
+- Unbuffered Channel
+
+## Goroutines
+> Goroutines run in the same address space, so access to shared memory must be synchronized​​. 
+> The sync package provides useful primitives, although you won’t need them much in Go as there are other primitives.
+
+[How are Go channels implemented?](https://stackoverflow.com/questions/19621149/how-are-go-channels-implemented)
+
+
 ## Reference:
 - [An Introduction to Programming in Go](https://www.educative.io/courses/introduction-to-programming-in-go)
 - [Go by Example](https://gobyexample.com/)
