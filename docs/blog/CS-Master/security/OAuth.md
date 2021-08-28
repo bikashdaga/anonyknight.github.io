@@ -1,4 +1,9 @@
-# OAuth 2.0 
+---
+title: OAuth
+title_full: OAuth 2.0
+tags:
+  - Security
+---
 
 OAuth is widely used by third party grant access.
 

@@ -1,4 +1,9 @@
-# Software Engineering practices
+---
+title: Software Engineering
+title_full: Software Engineering practices
+tags:
+  - CS-philosophy
+---
 
 ## Secured SDLC
 
