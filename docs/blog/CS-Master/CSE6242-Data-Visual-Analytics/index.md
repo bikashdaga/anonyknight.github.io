@@ -1,5 +1,5 @@
 ---
-title: DVA
+title: CSE-6242 DVA
 title_full: CSE 6242 Data & Visual Analytics
 description: CSE 6242 OMSCS DVA class notes.
 tags:

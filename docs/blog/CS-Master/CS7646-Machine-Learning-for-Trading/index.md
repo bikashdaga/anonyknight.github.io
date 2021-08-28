@@ -1,5 +1,5 @@
 ---
-title: ML4T
+title: CS7646-ML4T
 title_full: CS7646 Machine Learning for Trading
 description: Machine Learning algorithms and its application
 tags:
