@@ -1,6 +1,6 @@
 ---
 title: ML4T
-title_full: Machine Learning for Trading
+title_full: CS7646 Machine Learning for Trading
 description: Machine Learning algorithms and its application
 tags:
   - Algorithms
@@ -11,7 +11,7 @@ tags:
 
 ## Machine Learning for Trading
 
-[7646 ML4T](http://lucylabs.gatech.edu/ml4t/)
+[CS7646 ML4T](http://lucylabs.gatech.edu/ml4t/)
 
 ### Book References
 

@@ -1,7 +1,7 @@
 ---
 title: DVA
-title_full: Data & Visual Analytics
-description: class notes from OMSCS DVA classes.
+title_full: CSE 6242 Data & Visual Analytics
+description: CSE 6242 OMSCS DVA class notes.
 tags:
   - Algorithms
   - OMSCS
