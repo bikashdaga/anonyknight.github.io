@@ -12,8 +12,6 @@ How to find cross reference?
 How to find issues earlier?
 How to use debugger?
 
-## IDE
-
 
 ## Scanner build
 

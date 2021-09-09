@@ -23,3 +23,4 @@ tags:
 > DevSecOps term is a relatively new term but given the rise in security awareness as well as breaches, it has become the talk of the town. Instead of having a team for manual security testing, it is way more efficient and cost/time effective to have automated security checks and catching the issue as soon as possible. This makes DevSecOps a highly demanded and regarded skill in the industry.
 
 [DevSecOps](https://www.sumologic.com/insight/devsecops-rugged-devops/)
+
