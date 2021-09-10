@@ -14,3 +14,10 @@ tags:
 - Select and use appropriate software design patterns
 - Express the specifications and design of an application using UML
 - [Time Permitting] Discuss related issues (e.g., formal design language with OCL)
+
+## Reference
+
+- [Craig Larman, Applying UML and Patterns (2005)](https://www.oreilly.com/library/view/applying-uml-and/0131489062/)
+- [Software Engineering Body of Knowledge (SWEBOKv3.0)](https://cs.fit.edu/~kgallagher/Schtick/Serious/SWEBOKv3.pdf)
+- [UML At a Glance](https://docs.nomagic.com/display/NMDOC/Quick+Reference+Guides?preview=/70389199/70389210/no-magic-quick-reference-guide_uml.pdf)
+- [The Elements of Style, William Strunk, Jr.](https://www.bartleby.com/141/)
