@@ -17,3 +17,5 @@ subprocess.run("exit 1", shell=True, check=True)
 [subprocess — Subprocess management](https://docs.python.org/3.7/library/subprocess.html#security-considerations)
 
 [Difference between single and double quotes in Bash](https://stackoverflow.com/questions/6697753/difference-between-single-and-double-quotes-in-bash)
+
+## [Shell Parameter Expansion](https://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html)
