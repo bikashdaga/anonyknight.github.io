@@ -23,7 +23,7 @@ tags:
 - [The Elements of Style, William Strunk, Jr.](https://www.bartleby.com/141/)
 - [Lucid Chart UML tutorials](https://www.youtube.com/watch?v=UI6lqHOVHic)
 
-## OMS UML references
+## Object Mangagement Group(OMG) UML references
 - [OMG-Unified Modeling Language](https://www.omg.org/spec/UML/2.5.1/PDF)
 - [OMG-UML v1.4](https://www.omg.org/spec/UML/1.4/PDF)
 - [OMG-OCL v2.0](https://www.omg.org/spec/OCL/2.0/PDF)
