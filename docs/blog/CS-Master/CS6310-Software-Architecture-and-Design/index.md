@@ -22,6 +22,8 @@ tags:
 - [UML At a Glance](https://docs.nomagic.com/display/NMDOC/Quick+Reference+Guides?preview=/70389199/70389210/no-magic-quick-reference-guide_uml.pdf)
 - [The Elements of Style, William Strunk, Jr.](https://www.bartleby.com/141/)
 - [Lucid Chart UML tutorials](https://www.youtube.com/watch?v=UI6lqHOVHic)
+- [Learning UML 2.0, Russ Miles, Kim Hamilton](https://learning.oreilly.com/library/view/learning-uml-2-0/0596009828/)
+- [UML 2.0 in a Nutshell, Dan Pilone, Neil Pitman](https://learning.oreilly.com/library/view/uml-2-0-in/0596007957/)
 
 ## Object Mangagement Group(OMG) UML references
 - [OMG-Unified Modeling Language](https://www.omg.org/spec/UML/2.5.1/PDF)
