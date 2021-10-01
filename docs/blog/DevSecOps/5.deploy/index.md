@@ -21,6 +21,10 @@ tags:
 
 ## [Ansible](https://www.ansible.com/overview/how-ansible-works)
 
+## [puppet](https://puppet.com/docs/puppet/7/puppet_index.html)
+
+## [chef](https://github.com/chef/chef)
+
 ## [Terraform](https://www.terraform.io/)
 
 ## Why is it important in DevSecOps? 
