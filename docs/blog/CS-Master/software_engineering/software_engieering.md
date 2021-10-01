@@ -25,3 +25,5 @@ alt="Devops Tools of the Trade" width="882">
 [OAuth 2.0](https://oauth.net/2/)
 
 [JSON Web Token Introduction - jwt.io](https://jwt.io/introduction/)
+
+## [Product Owner vs Product Manager](https://www.productboard.com/blog/product-owner-vs-product-manager/)
