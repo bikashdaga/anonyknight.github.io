@@ -51,3 +51,27 @@
 |        | [P4L6: Design Reviews (23:38)](https://gatech.instructure.com/courses/197340/pages/p4l6-design-reviews-playlist) |                                                              |
 | Nov-29 | **Week 15 **                                                 |                                                              |
 |        | [Geeks in Black: The Code Review (32:59)](https://gatech.instructure.com/courses/197340/pages/geeks-in-black-the-code-review-playlist) |                                                              |
+
+Quiz 3: UML.
+
+Reference: **Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development, Third Edition** 
+
+6.17 - Applying UML: Use Case Diagrams
+
+6.18 - Applying UML: Activity Diagrams
+
+9.14 - Associations
+
+9.16 - Attributes
+
+13.5 - Applying UML: Package Diagrams
+
+15 - UML Interaction Diagrams
+
+16 - UML Class Diagrams
+
+28 - UML Activity Diagrams and Modeling
+
+29 - UML State Machine Diagrams and Modeling
+
+31 - Domain Model Refinement
