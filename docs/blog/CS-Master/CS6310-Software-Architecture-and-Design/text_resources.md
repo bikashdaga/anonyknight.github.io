@@ -1,7 +1,7 @@
 ---
-title: CS6310-SAD
-title_full: CS6310 Software Architecture and Design Test Resources
-description: Resources for CS6310
+title: Text Resources
+title_full: Text Resources
+description: Text resources recommended.
 tags:
   - OMSCS
 ---
