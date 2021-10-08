@@ -50,6 +50,22 @@ the requirements.
 
 #### Illustrate a OOA/D example
 
+- Define use cases from requirements (Use case UML)
+- Define domain model to show noteworthy domain concepts or objects. Domain model =
+  conceptual object model. (Domain Model diagram for real-world classes)
+- Assign object responsibilities and collaborations, draw interaction diagrams. (sequence diagram)
+- Design class diagram to have a static view of the class. (software classes diagram)
 
 #### What's the overview UML and visual agile modeling.
+
+UML is a **visual** language to specify and construct, document the artifacts of systems.
+
+At deeper level in Model Driven Architecture(MDA), UML notation is the UML meta-model.
+
+Three ways to apply UML 
+- As Sketch, informal and incomplete hand drawing on whiteboards.
+- As Blueprint, reverse engineering to visualize and understand the code or code generation(forward engineering).
+- As programming language, to generate the executable code.
+
+##### Three perspectives to apply UML
 
