@@ -8,3 +8,13 @@ tags:
   - Agile
   - Software Engineering
 ---
+
+## Ch.4 Inception is Not the Requirements Phase
+
+Inception in one sentence:
+
+**Envision the product scope, vision, and business case.**
+
+The main problem solved in one sentence:
+
+**Do the stakeholders have basic agreement on the vision of the project, and is it worth investing in serious investigation?**

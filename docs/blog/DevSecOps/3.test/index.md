@@ -27,9 +27,13 @@ tags:
 
 ## Java Family
 
-- [JUnit](https://junit.org/junit5/)
+- [JUnit](https://junit.org/junit5/) used for Spring based application with Mockito
 - [Spock for Groovy](https://spockframework.org/)
 - [Selenium](https://github.com/SeleniumHQ/selenium), Selenium IDE, Selenium Python Bindings.
+- [NextNG](https://github.com/cbeust/testng), general testing and Web Automation (Selenium)
+- [Unit Testing Spring Boot](https://reflectoring.io/unit-testing-spring-boot/)
+
+[JUnit 5 vs TestNG](https://stackoverflow.com/questions/38273479/junit-5-vs-testng)
 
 ## Dynamic Application Security Analysis (DAST) 
 > The Dynamic Application Security Analysis (DAST) is performed to identify the possible run-time vulnerabilities or security issues. Unlike static analysis, dynamic analysis is performed on a running project.
