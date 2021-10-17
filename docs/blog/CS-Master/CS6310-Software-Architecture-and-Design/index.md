@@ -24,6 +24,8 @@ tags:
 - [Lucid Chart UML tutorials](https://www.youtube.com/watch?v=UI6lqHOVHic)
 - [Learning UML 2.0, Russ Miles, Kim Hamilton](https://learning.oreilly.com/library/view/learning-uml-2-0/0596009828/)
 - [UML 2.0 in a Nutshell, Dan Pilone, Neil Pitman](https://learning.oreilly.com/library/view/uml-2-0-in/0596007957/)
+- [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://learning.oreilly.com/library/view/domain-driven-design-tackling/0321125215/)
+
 
 ## Object Mangagement Group(OMG) UML references
 - [OMG-Unified Modeling Language](https://www.omg.org/spec/UML/2.5.1/PDF)

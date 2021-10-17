@@ -14,15 +14,17 @@ tags:
 Objectives:
 ### What's the book goals and scope?
 
-1. Interactive development process via an agile approach to Unified Process(UP)
+#### Interactive development process via an agile approach to Unified Process(UP)
    * How to create an excellent OO design? classic OO design metaphor: responsibility-driven design.
-    
    * How to use the language for "software blueprints", displaying thought and the form of communication?
-2. Introduction to OOA/D and Applying UML.
-3. Focus on fundamentals: how to assign responsibilities to objects, UML notation, common design patterns.
-   - principles, heuristics or design patterns(problem solution formulas for design principles)
-   - **requirements analysis** related to **use cases.**
-4. Intermediate level topics: framework design and architectural analysis.
+
+#### Introduction to OOA/D and Applying UML.
+#### Focus on fundamentals
+* how to assign responsibilities to objects, UML notation, common design patterns.
+* principles, heuristics or design patterns(problem solution formulas for design principles)
+* **requirements analysis** related to **use cases.**
+
+#### Intermediate level topics: framework design and architectural analysis.
 
 In conclusion:
 
@@ -48,11 +50,10 @@ its implementation.
 In OO, design is to define software objects and how they collaborate to fulfill
 the requirements.
 
-### Illustrate a OOA/D example
+### A Short Example 
 
-- Define use cases from requirements (Use case UML)
-- Define domain model to show noteworthy domain concepts or objects. Domain model =
-  conceptual object model. (Domain Model diagram for real-world classes)
+- Requirements Analysis - Define use cases (Use case UML)
+- Define domain model - show noteworthy domain concepts or objects. Domain model = conceptual object model. (Domain Model diagram for real-world classes)
 - Assign object responsibilities and collaborations, draw interaction diagrams. (sequence diagram)
 - Design class diagram to have a static view of the class. (software classes diagram)
 
