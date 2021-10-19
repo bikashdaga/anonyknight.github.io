@@ -76,7 +76,7 @@ Three ways to apply UML
 
 ## Ch.2 Iterative, Evolutionary, and Agile
 
-## How to define an iterative and agile process
+### How to define an iterative and agile process
 
 Software Development process describes the approach for the software
 
@@ -125,7 +125,7 @@ Risk-driven development
 4. Feature-Driven Development
 5. Adaptive software Development.
 
-## How to define fundamental concepts in the Unified Process(UP)?
+### How to define fundamental concepts in the Unified Process(UP)?
 
 Feedback and adaptation evolve the specification and design,
 it's known as iterative and evolutionary development.
@@ -167,7 +167,7 @@ Two to six weeks.
 
 Central idea: small steps, rapid feedback, adaptation.
 
-## Waterfall lifecycle
+### Waterfall lifecycle
 
 1. High rate of failure
 2. Lower productivity
@@ -186,7 +186,7 @@ Waterfall thinking based on speculation and hearsay.
 3. Team progress of early features' feedbacks help refine the schedule and estimates.
 4. Client and marketplace feedbacks help re-prioritize the features.
 
-## How to do Iterative and Evolutionary Analysis and Design?
+### How to do Iterative and Evolutionary Analysis and Design?
 
 Clarify the requirements in workshops, improve CI/CD must-to-have, design workshops, implement
 and testing, elaboration phase, then implement.
@@ -220,12 +220,12 @@ for four iterations and five requirements workshops, 80% to 90% requirements hav
 ### 8. Stabilized requirements and then implementation.
 Requirements workshops are unlikely. The requirements are stabilized. Keep ask this in each iteration: “Given what we know today, what are the most critical technical and business features we should do in the next three weeks?”
 
-## What is Risk-Driven and Client-Driven Iterative Planning?
+### What is Risk-Driven and Client-Driven Iterative Planning?
 
 1. Risk driven: identify and drive down the highest risks. Including architecture centric iterative development because not having a solid architecture is a common high risk.
 2. Client-Driven: build visible features that client cares most about.
 
-## What are Agile Methods and Attitudes?
+### What are Agile Methods and Attitudes?
 
 ![Figure 2.4. Evolutionary analysis and design—the majority in early iterations](../diagrams/evolutionary-analysis-and-design.jpg)
 
@@ -240,7 +240,7 @@ requirements, and design.
 
 Agile Alliance ([www.agilealliance.com](http://www.agilealliance.com/)) with a manifesto and statement of principles to capture the spirit of agile methods.
 
-## The Agile Manifesto
+### The Agile Manifesto
 
 | Individuals and interactions | over processes and tools           |
 | ---------------------------- | ---------------------------------- |
@@ -248,7 +248,7 @@ Agile Alliance ([www.agilealliance.com](http://www.agilealliance.com/)) with a m
 | *Customer collaboration*     | *over contract negotiation*        |
 | *Responding to change*       | *over following a plan*            |
 
-## The Agile Principles
+### The Agile Principles
 
 | 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software. | 8. Agile processes promote sustainable development.          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -269,7 +269,7 @@ Agile Alliance ([www.agilealliance.com](http://www.agilealliance.com/)) with a m
 - Treat prior diagrams lightly as throw-away explorations. **Only tested code demonstrates the true design.**
 - Developers themselves should do the OO design modeling for themselves.
 
-## Agile Modeling in this Book: Why the Snapshots of UML Sketches?
+### Agile Modeling in this Book: Why the Snapshots of UML Sketches?
 
 UML-sketch modeling on whiteboards is a practice I. 
 
@@ -309,17 +309,17 @@ UML-sketch modeling on whiteboards is a practice I.
 
 ![**Figure 2.7. UP disciplines.**](../diagrams/UP-disciplines.gif)
 
-## What is the Relationship Between the Disciplines and Phases?
+### What is the Relationship Between the Disciplines and Phases?
 
 ![Disciplines and phases.](../diagrams/UP-discipline-and-phases.gif)
 
 **Figure 2.8. Disciplines and phases.**
 
-## How is the Book Structure Influenced by UP Phases and Disciplines?
+### How is the Book Structure Influenced by UP Phases and Disciplines?
 
 ![**Figure 2.9. Book organization is related to the UP phases and iterations.**](../diagrams/The-book-structure.gif)
 
-## Definition: What is the Development Case?
+### Definition: What is the Development Case?
 
 **Table 2.1. Sample Development Case. s - start; r - refine**
 
@@ -338,7 +338,7 @@ UML-sketch modeling on whiteboards is a practice I.
 | Project Management          | agile PM daily Scrum meeting                                 |                ... |        |        |        |        |
 | ...                         |                                                              |                    |        |        |        |        |
 
-# You Know You Didn't Understand Iterative Development or the UP When...
+### You Know You Didn't Understand Iterative Development or the UP When...
 
 - You try to define requirements before design or implementation, define design before implementation, or define an architecture before iterative programming and testing.
 - Doing UML modeling before programming, regarding programming as a simple mechanical translation of UML into code.
@@ -348,7 +348,7 @@ UML-sketch modeling on whiteboards is a practice I.
 - Adpoting the UP means many activities and create many documents.
 - Plan a project in details, speculatively predict activities.
 
-# History
+### History
 
 In the late **1950s**, evolutionary, iterative, and incremental development (IID), rather than the waterfall. 
 
@@ -360,3 +360,22 @@ Also in the **1980s**, Dr. Frederick Brooks (of *Mythical Man-Month* fame), wrot
 
 By the early **1990s**, IID was widely recognized as the successor to the waterfall, and there was a flowering of iterative and evolutionary methods: UP, DSDM, Scrum, XP, and many more.
 
+## Ch.3 Case Studies.
+
+### Why focus on OOA/D in the core application logic layer?
+
+![Figure 3.1. Sample layers and objects in an object-oriented system, and the case study focus](./../diagrams/03-Sample-layers.gif)
+
+Only application logic layer are language, technology, platform independent.
+
+### Methodology
+
+Iterations:
+
+1. Core functions, a core set of analysis and design topics and notation
+2. New ideas, UML notation, patterns
+3. Likewise
+
+### Case One: The NextGen POS System
+
+### Case Two: The Monopoly Game System
