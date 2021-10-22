@@ -8,3 +8,5 @@ tags:
   - Agile
   - Software Engineering
 ---
+
+## Chapter 23 More Patterns

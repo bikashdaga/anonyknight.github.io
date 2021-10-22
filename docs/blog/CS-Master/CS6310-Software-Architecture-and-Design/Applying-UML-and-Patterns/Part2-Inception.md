@@ -98,6 +98,8 @@ The following diagram illustrate write Business Modeling into requirements, then
 
 ### Definition: What are Actors, Scenarios, and Use Cases?
 
+**Definition**: Informally then, a **use case** is a collection of related success and failure **scenarios** that describe an actor using a system to support a **goal**. 
+
 An **Actor** is somthing with behavior, such as a person
 
 A **Scenario**(a use case instance) is a specific sequence of actions and interactions between actors and the system. 
@@ -106,10 +108,14 @@ A **use case** is a collection of related success and failure scenarios that des
 
 **Use cases are a key requirements input to classic OOA/D**.
 
+### Use Cases and the Use-Case Model
+
+**Use cases are text documents, not diagrams, and use-case modeling is primarily an act of writing text, not drawing diagrams.**
+
 ### Motivation: why use cases?
 
 1. A good way to keep it simple for everyone.
-2. It emphasize the user goals and perspective: “Who is using the system, what are their typical scenarios of use, and what are their goals?”
+2. It emphasize the user goals and perspective. We ask the questions - “**Who** is using the system, what are their typical **scenarios** of use, and what are their **goals**?”
 
 ### Definition: What are Three Kinds of Actors?
 
@@ -124,6 +130,10 @@ An actor includes the system under discussion(SuD).
 * Brief - early requirements analysis to get a quick sense
 * Causual - Informal paragraph format.
 * Fully dressed - steps and variations are written in details, including preconditions and success guarantees.
+
+### Guideline: Write Terse Use Cases
+
+### Guideline: Write Black-Box Use Cases
 
 ### Guideline: Take an Actor and Actor-Goal Perspective
 
@@ -159,3 +169,14 @@ Two approaches:
 
 Define one use case for each user goal, start the name of use cases with a verb.
 
+### Guideline: What Tests Can Help Find Useful Use Cases?
+
+#### The Boss Test
+
+#### The **Elementary Business Process** (**EBP**)  Test (Dogfooding?)
+
+#### The Size Test
+
+### Applying UML: Use Case Diagrams
+
+![Partial Use case Diagram](../diagrams/06-Partial-Use-Case.gif)
