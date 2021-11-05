@@ -10,3 +10,14 @@ tags:
 ---
 
 ## Chapter 23 More Patterns
+
+## Chapter 39 Documenting Architecture: UML and the N+1 View Model
+
+4+1 Views
+- Logical
+- Process
+- Deployment
+- Data
+
++ Use Case view
+

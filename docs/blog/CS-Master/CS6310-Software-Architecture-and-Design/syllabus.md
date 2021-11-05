@@ -36,7 +36,7 @@
 | Oct-25 | **Week 10 **                                                 |                                                              |
 |        | [P3L7: ACME (14:26)](https://gatech.instructure.com/courses/197340/pages/p3l7-acme-playlist) | [Medvidovic and Taylor Paper](https://gatech.instructure.com/courses/197340/files/24261511/download) |
 |        | [P3L8: Refinement (21:25)](https://gatech.instructure.com/courses/197340/pages/p3l8-refinement-playlist) |                                                              |
-| Nov-1  | **Week 11**                                                  |                                                              |
+| Nov-1  | **Week 11**                                                  | Design Patterns: Abstraction and Reuse of Object-Oriented, Chapter 1, 5<br/>Larman Chapter 17, 25, 26, 33, 35, 36 |
 |        | [P3L9: Middleware (42:48)](https://gatech.instructure.com/courses/197340/pages/p3l9-middleware-playlist) | [Emmerich Paper](https://gatech.instructure.com/courses/197340/files/24261525/download) |
 |        | [P3L10: LayerBlox Guest Interview (58:48)](https://gatech.instructure.com/courses/197340/pages/p3l10-guest-interview-layerblox-playlist) |                                                              |
 |        | **Part 4 - Software Design**                                 |                                                              |
@@ -52,7 +52,9 @@
 | Nov-29 | **Week 15 **                                                 |                                                              |
 |        | [Geeks in Black: The Code Review (32:59)](https://gatech.instructure.com/courses/197340/pages/geeks-in-black-the-code-review-playlist) |                                                              |
 
-Quiz 3: UML.
+## Quiz #2: SWEBOK Software Design
+
+## Quiz 3: UML.
 
 Reference: **Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development, Third Edition** 
 
@@ -75,3 +77,30 @@ Reference: **Applying UML and Patterns: An Introduction to Object-Oriented Analy
 29 - UML State Machine Diagrams and Modeling
 
 31 - Domain Model Refinement
+
+## Quiz #4: Architectural Styles & Models
+
+Most of the questions have been drawn from the *Garlan & Shaw* paper "Introduction to Software Architectures" as covered in the previous Reading Discussion:
+*Chapters 1, 2 and 3 (pages 1 - 17) and Chapter 5 (pages 36 - 37).*
+
+*Applying UML and Patterns*: An Introduction to Object-Oriented Analysis and Design and Iterative Development, Third Edition (2005 version) text by *Craig Larman*. 
+
+*13. Logical Architecture and UML Package Diagrams*
+*33. Architectural Analysis*
+*39. Documenting Architecture: UML and the N+1 View Model*
+
+## Quiz #5: Design Patterns & Related Issues
+
+**Gamma, Helm, Johnson, Vlissides**
+Paper - *Design Patterns: Abstraction and Reuse of Object-Oriented Design*
+[21 pages - all fair game]
+
+**Larman**
+
+- *Chapter 17. GRASP: Designing Objects with Responsibilities*
+- *Chapter 25. GRASP: More Objects with Responsibilities*
+- *Chapter 26. Applying GoF Design Patterns*
+- *Chapter 33. Architectural Analysis*
+- *Chapter 35. Package Design*
+- *Chapter 36. More Object Design with GoF Patterns*
+  [Each chapter - all pages fair game as needed]

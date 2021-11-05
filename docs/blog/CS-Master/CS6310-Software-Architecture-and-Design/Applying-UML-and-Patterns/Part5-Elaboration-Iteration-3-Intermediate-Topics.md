@@ -9,4 +9,4 @@ tags:
   - Software Engineering
 ---
 
-## Chapter 27 
+## Chapter 27

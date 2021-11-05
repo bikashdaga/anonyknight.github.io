@@ -180,3 +180,4 @@ Define one use case for each user goal, start the name of use cases with a verb.
 ### Applying UML: Use Case Diagrams
 
 ![Partial Use case Diagram](../diagrams/06-Partial-Use-Case.gif)
+
