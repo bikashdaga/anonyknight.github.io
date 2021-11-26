@@ -9,7 +9,7 @@ tags:
   - Software Engineering
 ---
 
-## Ch.1 Object Oriented Analysis and Design(OOA/D)
+## Chapter 1 Object Oriented Analysis and Design(OOA/D)
 
 Objectives:
 ### What's the book goals and scope?

@@ -68,7 +68,7 @@ Perhaps beyond simple **UML use case diagrams**, not much diagramming is warrant
 - ***\*Usability—\**.** human factors, help, documentation.
 - ***\*Reliability—\**.** frequency of failure, recoverability, predictability.
 - ***\*Performance—\**.** response times, throughput, accuracy, availability, resource usage.
-- ***\*Supportability—\**.** adaptability, maintainability, internationalization, configurability.
+- ***\*Supportability—\**.** adaptability, maintainability, internationalization, **configurability**.
 
 The “+” in FURPS+ indicates ancillary and sub-factors, such as:
 
