@@ -49,3 +49,23 @@ Illustrate how objects interact via messages, used for dynamic object modeling.
 | communication | space economical—flexibility to add new objects in two dimensions | more difficult to see sequence of messagesfewer notation options |
 
 ![Figure 15.5. Lifeline boxes to show participants in interactions](../diagrams/15-UML-Sequence-Diagram-Lifetime-Box.gif)
+
+## Chapter 17 GRASP: Design objects with responsibilities
+
+GRASP: [General Responsibility Assignment Software Patterns](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
+
+Nine GRASP Patterns:
+
+* Creator(Factory)
+* Information Expert(Information hiding)
+* Controller(Command, Facade, Layers)
+* High Cohesion
+  * **Cohesion** (or more specifically, functional cohesion) is a measure of how strongly related and focused the responsibilities of an element are.
+
+* Low coupling
+  * **[*Coupling*](https://learning.oreilly.com/library/view/applying-uml-and/0131489062/go01.html#gloss01entry22)** is a measure of how strongly one element is connected to, has knowledge of, or relies on other elements. 
+* Indirection
+* Polymorphism
+* Protected variations
+* Pure fabrication
+
