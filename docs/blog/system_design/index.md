@@ -8,8 +8,6 @@ System Design Introduction For Interview.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UzLMhqg3_Wc" frameborder="0" allowfullscreen></iframe>
 
-[Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems: Kleppmann, Martin: 9781449373320: Books - Amazon.ca](https://www.amazon.ca/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
-
 Youtube system design
 
 http://highscalability.com/
@@ -26,3 +24,4 @@ redis, celery
 ## Resources
 [system-design-primer](https://github.com/donnemartin/system-design-primer)
 [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+[Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
