@@ -15,9 +15,13 @@ http://highscalability.com/
 Language specific questions, concurrency/parallellism
 
 ## Framework
-django, spring, react, vue
 
-redis, celery
+
+Backend: django, spring,
+
+FrontEnd: react, vue
+
+redis, celery: asynchronous task queue
 
 [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
