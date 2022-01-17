@@ -1,4 +1,11 @@
-# CDN
+---
+title: CDN
+description: Content Delivery Network
+tags:
+  - System Design
+hide:
+    - disqus
+---
 
 Static files such as HTML/CSS/JS, photos, and videos are served from CDN
 

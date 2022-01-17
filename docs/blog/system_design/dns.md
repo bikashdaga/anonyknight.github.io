@@ -1,4 +1,11 @@
-# DNS
+---
+title: DNS
+description: Domain Network System
+tags:
+  - System Design
+hide:
+    - disqus
+---
 
 Amazon R53 Traffic Flow:
 

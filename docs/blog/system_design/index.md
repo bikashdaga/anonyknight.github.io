@@ -1,4 +1,12 @@
-# System design
+---
+title: System Design
+title_full: Software System Design 
+description: How to design a good software systems?
+tags:
+  - System Design
+hide:
+    - disqus
+---
 
 [System design](https://medium.com/the-andela-way/system-design-in-software-development-f360ce6fcbb9)
 

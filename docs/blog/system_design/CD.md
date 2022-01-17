@@ -1,4 +1,12 @@
-# Continuous Delivery
+---
+title: CD
+description: Continuous Delivery
+tags:
+  - System Design
+hide:
+    - disqus
+---
+
 
 ## Blue-Green Deployment
 

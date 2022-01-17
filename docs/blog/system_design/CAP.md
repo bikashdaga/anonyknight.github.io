@@ -1,5 +1,14 @@
-# [CAP Theorem](https://www.ibm.com/cloud/learn/cap-theorem)
+---
+title: CAP Theorem
+description: Consistency, Availability, Partition 
+tags:
+  - System Design
+hide:
+    - disqus
+---
 
+
+[IBM CAP doc](https://www.ibm.com/cloud/learn/cap-theorem)
 ## 1. Consistency
 
 ## Week consistency

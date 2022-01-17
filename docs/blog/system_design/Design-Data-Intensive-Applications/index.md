@@ -1,3 +1,13 @@
+---
+title: DDIP
+title_full: Design Data Intensive Appliation
+description: Design Data Intensive Appliation
+tags:
+  - System Design
+hide:
+    - disqus
+---
+
 ## Why data-intensive?
 
 **Data-intensive** application if data is its primary challenge.

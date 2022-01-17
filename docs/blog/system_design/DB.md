@@ -1,4 +1,11 @@
-# Database
+---
+title: DB
+description: Database
+tags:
+  - System Design
+hide:
+    - disqus
+---
 
 Notes from:
 
