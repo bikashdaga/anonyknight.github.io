@@ -1,4 +1,11 @@
-# replication
+---
+title: Replication
+description: Data replication.
+tags:
+  - System Design
+hide:
+    - disqus
+---
 
 Master-Slave
 

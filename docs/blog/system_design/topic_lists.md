@@ -1,4 +1,11 @@
-# Topic Lists
+---
+title: Topics
+description: Software System Design Topics list.
+tags:
+  - System Design
+hide:
+    - disqus
+---
 
 [GitHub - donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer)
 
