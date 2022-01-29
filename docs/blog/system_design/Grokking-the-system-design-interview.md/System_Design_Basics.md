@@ -43,6 +43,8 @@ Between internal platform layers and database.
 
 ### Redundant Load Balancers
 
+![Load Balancer](./Load-Balancer.png)
+
 ## Caching
 
 recently requested data is likely to be requested again
@@ -84,5 +86,140 @@ Definition: a technique to break a big database (DB) into many smaller parts
 * **Referential integrity**
 * **Rebalancing**
 
-## Indexes
+## Indexes (DB)
 
+Make it faster to search through the table, created one or more columns of a database table. 
+
+### A Library catalog
+
+Book name or book title sorted catalog
+
+### It decreases write performance
+
+Adding indexes is to improve search queries performances.
+
+## Proxies
+
+**Definition**: an intermediate piece of software or hardware sits between the client and the server.
+
+![Proxy](proxy.png)
+
+### **Forward proxies**
+
+* cache data
+* filter requests
+* log requests
+* transform requests
+
+* collapsed forwarding to combine the same data access requests into one request.
+
+### Reverse proxy
+
+Definition: the node retrieves resources from one or more servers on behalf of a client.
+
+![reverse-proxy](reverse-proxy.png)
+
+* caching
+* load balancing
+* anonymizing the servers
+* routing requests to the appropriate servers
+
+# Redundancy and Replication
+
+[Redundancy](https://en.wikipedia.org/wiki/Redundancy_(engineering))  is the duplication of critical components or functions to increase system's reliability, a form of a backup or fail-safe or performance improving.
+
+![redundancy](redundancy.png)
+
+[Replication](https://en.wikipedia.org/wiki/Replication_(computing)) means sharing information to ensure consistency between redundant resources, to improve reliability, fault tolerance or accessibility.
+
+Widely used in DBMS, usually primary-replica relationship.
+
+## SQL vs NoSQL
+
+### SQL
+
+Store data in rows and columns in predefined tables.
+
+### No-SQL
+
+* **Key-Value Stores**: store data in key-value pairs. **Redis, Voldemort, and Dynamo**
+* **Document DB**: store data in documents. **CouchDB and MongoDB**
+* **Wide-Column Databases**: Instead of 'tables', column families which are containers of rows. Each rows doesn't have to have the same number of columns. Columnar databases are for large datasets. **Cassandra and HBase.**
+* **Graph Databases** store data whose relationship are in a graph, store the data in nodes, properties, and lines. e.g. **Neo4J and InfiniteGraph.**
+
+### Differences
+
+|                     | SQL                       | No-SQL                                                    |
+| ------------------- | ------------------------- | --------------------------------------------------------- |
+| Storage             | tables                    | key-value, document, graph, or columnar                   |
+| Schema              | Fixed schema              | dynamic, add in the fly                                   |
+| **Querying**        | structured query language | UnQL (Unstructured Query Language)                        |
+| **Scalability**     | Vertically                | horizontally                                              |
+| **ACID Compliancy** | ACID compliant            | sacrifice ACID compliance for performance and scalability |
+
+# Consistent Hashing (New)
+
+**Data partitioning**
+
+**Data replication**
+
+A carefully designed scheme for partitioning and replicating the data **enhances the performance, availability, and reliability of the system** 
+
+![simple-hashing](simple-hashing.png)
+
+David Karger et al. first introduced Consistent Hashing in their [1997 paper](https://dl.acm.org/doi/10.1145/258533.258660) 
+
+Consistent Hashing maps data to physical nodes and ensures that **only a small set of keys move when servers are added or removed.**
+
+![consistent-hashing](consistent-hashing.png)
+
+Each node is assigned one of these ranges. The start of the range is called a **token**.
+
+![Distributing-data-on-the-Consistent-Hashing-ring](Distributing-data-on-the-Consistent-Hashing-ring.png)
+
+However, the above scheme may  **result in non-uniform data and load distribution**. 
+
+### Virtual nodes
+
+![vnode-mapping](vnode-mapping.png)
+
+Mapping Vnodes to physical nodes on a Consistent Hashing ring
+
+![v-node-consistent-hashing-ring](v-node-consistent-hashing-ring.png)
+
+Mapping Vnodes to physical nodes on a Consistent Hashing ring
+
+
+
+![Replication-in-Consistent-Hashing](Replication-in-Consistent-Hashing.png)
+
+Replication in Consistent Hashing
+
+### Use cases
+
+Amazon’s [Dynamo](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html) 
+
+Apache [Cassandra](https://en.wikipedia.org/wiki/Apache_Cassandra)
+
+## Long-Polling vs WebSockets vs Server-Sent Events
+
+### Ajax Polling
+
+The basic idea is that the client repeatedly polls (or requests) a server for data.
+
+### HTTP Long-Polling
+
+With Long-Polling, the client requests information from the server exactly as in normal polling, but with the expectation that the server may not respond immediately
+
+### WebSockets
+
+WebSocket provides [Full duplex](https://en.wikipedia.org/wiki/Duplex_(telecommunications)#Full_duplex) communication channels over a single TCP connection
+
+### Server-Sent Events (SSEs)
+
+Under SSEs the client establishes a persistent and long-term connection with the server.
+
+cases: 
+
+* Real-time traffic from the server to the client.
+* the server is generating data in a loop and will be sending multiple events
