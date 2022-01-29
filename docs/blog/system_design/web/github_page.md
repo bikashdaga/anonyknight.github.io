@@ -21,4 +21,3 @@ Deploy Gatsby Site
 
 [Deploying to GitHub Pages | Codecademy](https://www.codecademy.com/articles/f1-u3-github-pages)
 
-
