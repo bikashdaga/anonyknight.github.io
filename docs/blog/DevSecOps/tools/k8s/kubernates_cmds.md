@@ -10,7 +10,6 @@ carmd-el-broussel
 cdn
 cgit
 elasticsearch
-farm-control
 gerrit
 git
 jenkins-artifacts
@@ -21,9 +20,8 @@ mongodb
 rabbitmq
 redis
 
-swicwe -P
-
 journalctl -u gobi-drivers -f
+
 date
 
 [k8s CMD cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
