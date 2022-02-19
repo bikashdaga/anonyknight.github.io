@@ -17,6 +17,15 @@ for development workflows.
 
 [MiniKube vs MicroK8s](https://medium.com/faun/local-kubernetes-for-linux-minikube-vs-microk8s-f096e8e869b2)
 
+## Why k8s?
+
+* **Service discovery and load balancing**
+* **Storage orchestration**
+* **Automated rollouts and rollbacks**
+* **Automatic bin packing**
+* **Self-healing**
+* **Secret and configuration management**
+
 ## [k8s components](https://kubernetes.io/docs/concepts/overview/components/)
 
 ### Control Plane Components
@@ -50,8 +59,9 @@ for development workflows.
 ## The Kubernetes API
 
 [Open API](https://www.openapis.org/)
-API object needs to handle buffer, xml or json? Google developed
-[protobuf](https://github.com/protocolbuffers/protobuf) before.
+API object needs to handle buffer, xml or json? 
+
+Google developed [protobuf](https://github.com/protocolbuffers/protobuf) before.
 
 [protobuf like design](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/api-machinery/protobuf.md)
 
@@ -69,13 +79,13 @@ Kubernetes objects are persistent entities in the Kubernetes system.
 - Declarative object config: directory of files.
 
 Troubleshooting:
-[k8s error imagepullbackoff](https://managedkube.com/kubernetes/k8sbot/troubleshooting/imagepullbackoff/2019/02/23/imagepullbackoff.html)
+[k8s error image pullbackoff](https://managedkube.com/kubernetes/k8sbot/troubleshooting/imagepullbackoff/2019/02/23/imagepullbackoff.html)
 
 ### Object Names and IDs
 
 - Names: /api/v1/pods/some-name
 
-- IDs: UUID to track historical occurences.
+- IDs: UUID to track historical occurrences.
 
 ### Namespaces
 
@@ -96,7 +106,7 @@ Labels = Identifying key/values
 
 selectors: filtering via label.
 
-- *equality-based* : `=`,`==`,`!=`
+- *equality-based* : `=`, `==`, `!=`
 
 - *set-based* : `in`,`notin` and `exists`
 
@@ -114,9 +124,9 @@ kubectl get pods --field-selector status.phase=Running
 
 ### Nodes
 
-Components: [kubelet](https://kubernetes.io/docs/reference/generated/kubelet), a
-[container runtime](https://kubernetes.io/docs/setup/production-environment/container-runtimes),
-and the [kube-proxy](https://kubernetes.io/docs/reference/command-line-tools-reference/kube-proxy/)
+Components: [kubelet](https://kubernetes.io/docs/reference/generated/kubelet), 
+
+a [container runtime](https://kubernetes.io/docs/setup/production-environment/container-runtimes), and the [kube-proxy](https://kubernetes.io/docs/reference/command-line-tools-reference/kube-proxy/)
 
 Adding nodes:
 

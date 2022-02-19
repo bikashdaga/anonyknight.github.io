@@ -64,11 +64,23 @@ Loop:
 * Sort training examples to leaves
 * If examples per
 
+### How to find the best attribute?
+
 ### Information gain
 
 If it's even, there is no way to guess what's the possibility of the result. Information is the maximum. If it's 100% sure, then information is none.
 
+#### Entropy
+
+A measure of randomness.
+$$
+Gain = Entrosy(S) - \Sigma \dfrac{|Sv|}{|S|} Entropy(S_v)
+$$
+The goal is maximize entropy gain.
+
 ### Bias
+
+Inductive Bias
 
 Restriction Bias
 
