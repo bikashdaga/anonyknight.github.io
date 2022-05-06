@@ -82,7 +82,13 @@ The goal is maximize entropy gain.
 
 Inductive Bias
 
+
+
 Restriction Bias
 
 Preference Bias
 
+#### Decision Trees other considerations
+
+* Continuous attributes? Age, weight, distance
+* 
