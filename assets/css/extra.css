@@ -1,0 +1,403 @@
+:root > * {
+    --md-code-hl-color: rgba(255, 255, 0, 0.1);
+    --md-typeset-mark-color: var(--md-code-hl-color);
+}
+.md-logo,
+.md-typeset h1 {
+    color: orangered;
+}
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-tabs__link.md-tabs__link--active,
+.md-nav__link.md-nav__link--active {
+    color: darkblue;
+}
+.md-search__input {
+    background-color: white !important;
+}
+.md-typeset code {
+    color: darkred;
+    background-color: rgba(0, 0, 0, 0.01);
+}
+.md-typeset p {
+    text-align: justify;
+}
+.md-typeset em {
+    color: darkmagenta;
+}
+.md-typeset .noem {
+    color: unset;
+}
+.md-footer {
+    color: unset;
+    background-color: unset;
+}
+.md-footer-meta {
+    background-color: black;
+}
+.md-typeset .file + p {
+    font-size: 0.9em;
+    color: gray;
+    margin-bottom: -1.2em;
+}
+/* admonition */
+.md-typeset .admonition-title:before,
+.md-typeset summary:before {
+    height: 1.2rem;
+    width: 1.2rem;
+}
+.md-typeset .admonition,
+.md-typeset details {
+    border: none;
+    box-shadow: none;
+    font-size: 0.95em;
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+.md-typeset .admonition > .admonition-title,
+.md-typeset details > summary {
+    background-color: transparent !important;
+    border-left: 0.2rem solid transparent !important;
+    padding-left: 3em;
+}
+.md-typeset .admonition.note,
+.md-typeset details.note {
+    background-color: rgba(68, 138, 255, 0.05);
+}
+.md-typeset .admonition.abstract,
+.md-typeset .admonition.summary,
+.md-typeset .admonition.tldr,
+.md-typeset details.abstract,
+.md-typeset details.summary,
+.md-typeset details.tldr {
+    background-color: rgba(0, 176, 255, 0.05);
+}
+.md-typeset .admonition.info,
+.md-typeset .admonition.todo,
+.md-typeset details.info,
+.md-typeset details.todo {
+    background-color: rgba(0, 184, 212, 0.05);
+}
+.md-typeset .admonition.hint,
+.md-typeset .admonition.important,
+.md-typeset .admonition.tip,
+.md-typeset details.hint,
+.md-typeset details.important,
+.md-typeset details.tip {
+    background-color: rgba(0, 191, 165, 0.05);
+}
+.md-typeset .admonition.check,
+.md-typeset .admonition.done,
+.md-typeset .admonition.success,
+.md-typeset details.check,
+.md-typeset details.done,
+.md-typeset details.success {
+    background-color: rgba(0, 200, 83, 0.05);
+}
+.md-typeset .admonition.faq,
+.md-typeset .admonition.help,
+.md-typeset .admonition.question,
+.md-typeset details.faq,
+.md-typeset details.help,
+.md-typeset details.question {
+    background-color: rgba(100, 221, 23, 0.05);
+}
+.md-typeset .admonition.attention,
+.md-typeset .admonition.caution,
+.md-typeset .admonition.warning,
+.md-typeset details.attention,
+.md-typeset details.caution,
+.md-typeset details.warning {
+    background-color: rgba(255, 145, 0, 0.05);
+}
+.md-typeset .admonition.fail,
+.md-typeset .admonition.failure,
+.md-typeset .admonition.missing,
+.md-typeset details.fail,
+.md-typeset details.failure,
+.md-typeset details.missing {
+    background-color: rgba(255, 82, 82, 0.05);
+}
+.md-typeset .admonition.danger,
+.md-typeset .admonition.error,
+.md-typeset details.danger,
+.md-typeset details.error {
+    background-color: rgba(255, 23, 68, 0.05);
+}
+.md-typeset .admonition.bug,
+.md-typeset details.bug {
+    background-color: rgba(245, 0, 87, 0.05);
+}
+.md-typeset .admonition.example,
+.md-typeset details.example {
+    background-color: rgba(124, 77, 255, 0.05);
+}
+.md-typeset .admonition.cite,
+.md-typeset .admonition.quote,
+.md-typeset details.cite,
+.md-typeset details.quote {
+    background-color: hsla(0, 0%, 62%, 0.05);
+}
+.md-typeset .admonition > .admonition-title + *,
+.md-typeset details > summary + * {
+    margin-top: 0;
+}
+.md-typeset .admonition.nt > .admonition-title + p::first-letter,
+.md-typeset details.nt > summary + p::first-letter {
+    padding-left: 2.2em;
+}
+.md-typeset .admonition.nt > .admonition-title + *,
+.md-typeset details.nt > summary + * {
+    margin-top: -2.1em;
+}
+/* quote */
+.md-typeset blockquote {
+    color: unset;
+    border-left-width: 2px;
+    opacity: 0.7;
+}
+.md-typeset blockquote :first-child {
+    margin-top: 0.25em;
+}
+.md-typeset blockquote :last-child {
+    margin-bottom: 0.25em;
+}
+/* code */
+.md-typeset code,
+.md-typeset kbd {
+    font-size: 1em;
+    word-break: keep-all !important;
+}
+.md-typeset pre code {
+    white-space: pre-wrap;
+    font-size: 0.9em;
+}
+.md-typeset .highlight [data-linenos]:before {
+    background-color: transparent;
+    box-shadow: none;
+    color: lightgray;
+}
+/* table */
+.md-typeset__scrollwrap {
+    margin: unset;
+}
+.md-typeset__table {
+    padding: 0;
+    display: block;
+}
+.md-typeset table:not([class]) {
+    font-size: 0.9em;
+    box-shadow: none;
+    display: table;
+    border-collapse: collapse;
+}
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+    padding: 0.5em;
+    border: 1px solid #f0f0f0;
+    min-width: unset;
+}
+/* tabs */
+.md-typeset .tabbed-content {
+    box-shadow: none;
+    border-top: 1px solid var(--md-default-fg-color--lightest);
+}
+.md-typeset .tabbed-content > .tabbed-set {
+    padding-left: 2em;
+}
+.md-typeset .tabbed-set > label {
+    font-size: 0.9em;
+    padding: 0;
+    margin-right: 1.25em;
+}
+/* buttons */
+.md-typeset .md-button {
+    font-size: small;
+    font-weight: unset;
+    padding: 0.25em 0.5em;
+    border: 1px solid;
+    color: orangered;
+    margin-right: 0.5em;
+}
+.md-typeset .md-button .twemoji {
+    font-size: large;
+}
+/* captions */
+.md-typeset figcaption {
+    max-width: unset;
+    margin: 1em auto;
+}
+/* sidebar */
+.md-sidebar__scrollwrap {
+    overflow: hidden;
+}
+.md-sidebar__scrollwrap:hover {
+    overflow-y: auto;
+}
+/* spaces */
+.md-main__inner {
+    margin-top: 0;
+}
+.md-typeset dd {
+    margin: 0.5em 0 1em 1.875em;
+}
+.md-typeset dd > * {
+    margin-top: 0;
+}
+.md-typeset p:empty {
+    display: none;
+}
+.md-typeset .admonition + *:not(h2),
+.md-typeset details + *:not(h2) {
+    margin-top: 0;
+}
+.md-typeset figure img {
+    margin: auto;
+}
+.md-typeset figure {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.md-typeset .highlight + .admonition,
+.md-typeset .highlight + details,
+.md-typeset .highlight + .tabbed-set,
+.md-typeset .highlight + .md-typeset__scrollwrap {
+    margin-top: 1em;
+}
+/* new elements */
+.md-typeset .ns {
+    font-style: unset;
+}
+.md-typeset .row {
+    display: flex;
+    flex-direction: row;
+}
+.md-typeset .row .col {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 0 0.25em;
+}
+.md-typeset .row .col:first-of-type {
+    margin-left: 0;
+}
+.md-typeset .row .col:last-of-type {
+    margin-right: 0;
+}
+/* width */
+.w100 {
+    width: 100% !important;
+}
+.w95 {
+    width: 95% !important;
+}
+.w90 {
+    width: 90% !important;
+}
+.w85 {
+    width: 85% !important;
+}
+.w80 {
+    width: 80% !important;
+}
+.w75 {
+    width: 75% !important;
+}
+.w70 {
+    width: 70% !important;
+}
+.w65 {
+    width: 65% !important;
+}
+.w60 {
+    width: 60% !important;
+}
+.w55 {
+    width: 55% !important;
+}
+.w50 {
+    width: 50% !important;
+}
+.w45 {
+    width: 45% !important;
+}
+.w40 {
+    width: 40% !important;
+}
+.w35 {
+    width: 35% !important;
+}
+.w30 {
+    width: 30% !important;
+}
+.w25 {
+    width: 25% !important;
+}
+.w20 {
+    width: 20% !important;
+}
+.w15 {
+    width: 15% !important;
+}
+.w10 {
+    width: 10% !important;
+}
+.w5 {
+    width: 5% !important;
+}
+/* tags */
+.tag {
+    white-space: nowrap;
+    margin-right: 0.25em;
+}
+.tag-cloud-content {
+    padding: 0 0.6rem;
+    margin-bottom: 1em;
+    text-align: center;
+}
+/* print */
+.md-typeset .print-only {
+    display: none;
+}
+@page {
+    size: a4 portrait;
+    margin: 25mm 15mm 25mm 20mm;
+}
+@media print {
+    .md-typeset .print-only {
+        display: block;
+    }
+    .md-typeset .screen-only {
+        display: none;
+    }
+    .md-typeset #__comments,
+    .md-typeset #disqus_recommendations,
+    .md-typeset #disqus_thread {
+        display: none;
+    }
+    .md-typeset .np {
+        page-break-after: always;
+    }
+    .md-typeset .np + *,
+    .md-typeset .toc + *,
+    .md-typeset .btn-actions + * {
+        margin-top: 0;
+    }
+    .md-typeset figure {
+        page-break-inside: avoid;
+    }
+    .md-typeset .admonition,
+    .md-typeset details {
+        page-break-inside: auto;
+    }
+    .md-typeset .admonition-title:before,
+    .md-typeset summary:before {
+        height: 1rem;
+        width: 1rem;
+    }
+    .md-typeset .tabbed-set > label {
+        border-color: var(--md-accent-fg-color);
+        color: var(--md-accent-fg-color);
+    }
+}
