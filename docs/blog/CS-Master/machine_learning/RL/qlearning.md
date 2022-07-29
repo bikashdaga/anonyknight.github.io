@@ -141,3 +141,5 @@ Update Q with $<s,a,s',r>$
 [Q-Learning in Python](https://www.geeksforgeeks.org/q-learning-in-python/)
 
 [Dyna-Q-Learning](https://github.com/Bobyue0118/Dyna-Q-Learning/blob/master/src/agent.py)
+
+[Learn about Queue in Python](https://www.scaler.com/topics/queue-in-python/)
